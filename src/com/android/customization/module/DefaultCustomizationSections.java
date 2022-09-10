@@ -27,6 +27,8 @@ import com.android.wallpaper.module.CustomizationSections;
 import java.util.ArrayList;
 import java.util.List;
 
+import com.android.customization.model.theme.OverlayManagerCompat;
+
 /** {@link CustomizationSections} for the customization picker. */
 public final class DefaultCustomizationSections implements CustomizationSections {
 
